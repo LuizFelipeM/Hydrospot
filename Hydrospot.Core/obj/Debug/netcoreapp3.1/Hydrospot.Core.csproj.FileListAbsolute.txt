@@ -1,0 +1,9 @@
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\bin\Debug\netcoreapp3.1\Hydrospot.Core.deps.json
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\bin\Debug\netcoreapp3.1\Hydrospot.Core.dll
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\bin\Debug\netcoreapp3.1\Hydrospot.Core.pdb
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\obj\Debug\netcoreapp3.1\Hydrospot.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\obj\Debug\netcoreapp3.1\Hydrospot.Core.AssemblyInfoInputs.cache
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\obj\Debug\netcoreapp3.1\Hydrospot.Core.AssemblyInfo.cs
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\obj\Debug\netcoreapp3.1\Hydrospot.Core.dll
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\obj\Debug\netcoreapp3.1\Hydrospot.Core.pdb
+C:\Users\Luiz Felipe\source\repos\Hydrospot\Hydrospot.Core\obj\Debug\netcoreapp3.1\Hydrospot.Core.csprojAssemblyReference.cache
